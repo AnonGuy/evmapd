@@ -15,7 +15,7 @@
 
 
 
-#define UINPUT_DEVICE		"/dev/input/uinput"
+#define UINPUT_DEVICE		"/dev/uinput"
 
 #define DEBUG			1
 
